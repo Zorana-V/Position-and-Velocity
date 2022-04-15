@@ -8,5 +8,3 @@ and a plot of the position of the spacecraft found by propogating the orbit on a
 to the position of the spacecraft found by using ODE113 (a MATLAB function used to integrate
 the system of differential equations).
 
-## Credits
-Big thanks to Dr. Anil Rao for providing ECEF2LONLAT.m and mercadorDisplay.m functions.
